@@ -8,7 +8,7 @@
 
 ## Версии
 
-[![GitHub release](https://img.shields.io/github/v/release/opencartbulgaria/nra-opencart)](https://github.com/opencartbulgaria/nra-opencart)
+[![GitHub release](https://img.shields.io/github/v/release/opencartbulgaria/quickbillr)](https://github.com/opencartbulgaria/quickbillr)
 
 
 ## Как да инсталирам?
