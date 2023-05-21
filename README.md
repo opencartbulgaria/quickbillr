@@ -1,5 +1,5 @@
 [<img alt="alt_text" src="https://quickbillr.com/wp-content/uploads/2023/05/quick-logo.png" />](https://quickbillr.com/)
-# Автоматизация на фактуриране и одиторски файл по наредба Н-18 за - [OpenCart Bulgaria](https://www.opencartbulgaria.com/)
+# Автоматизация на фактуриране и одиторски файл по наредба Н-18 - [OpenCart Bulgaria](https://www.opencartbulgaria.com/)
 
 ## Описание
 
